@@ -1,0 +1,122 @@
+		.line1{
+			position: absolute;
+			top: 113px;
+			left: 96px;
+			opacity: .9;
+		}
+		.line2{
+			position: absolute;
+			top: 113px;
+			left: 155px;
+			opacity: .9;
+		}
+		.line3{
+			position: absolute;
+			top: -13px;
+			left: 875px;
+			opacity: .9;
+		}
+		.line4{
+			position: absolute;
+			top: -13px;
+			left: 935px;
+			opacity: .9;
+		}
+
+
+.note-2 {
+	width: 5.6%;
+	position: absolute;
+	top: 61px;
+	left: 90px;
+}
+.note-1 {
+	width: 5.6%;
+	position: absolute;
+	top: 52px;
+	left: 90px;
+}
+.note0 {
+	width: 5.6%;
+	position: absolute;
+	top: 43px;
+	left: 150px;
+}
+.note1 {
+	width: 5.6%;
+	position: absolute;
+	top: 32px;
+	left: 210px;
+}
+.note2 {
+	width: 5.6%;
+	position: absolute;
+	top: 22px;
+	left: 270px;
+}
+.note3 {
+	width: 5.6%;
+	position: absolute;
+	top: 11px;
+	left: 330px;
+}
+.note4 {
+	width: 5.6%;
+	position: absolute;
+	top: 0px;
+	left: 390px;
+}
+.note5 {
+	width: 5.6%;
+	position: absolute;
+	top: -10.5px;
+	left: 450px;
+}
+.note6 {
+	width: 5.6%;
+	position: absolute;
+	top: -22px;
+	left: 510px;
+}
+.note7 {
+	width: 5.6%;
+	position: absolute;
+	top: -32px;
+	left: 570px;
+}
+.note8 {
+	width: 5.6%;
+	position: absolute;
+	top: -43px;
+	left: 630px;
+}
+.note9 {
+	width: 5.6%;
+	position: absolute;
+	top: -53px;
+	left: 690px;
+}
+.note10 {
+	width: 5.6%;
+	position: absolute;
+	top: -63px;
+	left: 750px;
+}
+.note11 {
+	width: 5.6%;
+	position: absolute;
+	top: -73px;
+	left: 810px;
+}
+.note12 {
+	width: 5.6%;
+	position: absolute;
+	top: -84px;
+	left: 870px;
+}
+.note13 {
+	width: 5.6%;
+	position: absolute;
+	top: -95px;
+	left: 930px;
+}
