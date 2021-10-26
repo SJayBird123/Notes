@@ -1,0 +1,106 @@
+		.sharpline1{
+			position: absolute;
+			top: 133px;
+			left: 96px;
+			opacity: .9;
+		}
+		.sharpline2{
+			position: absolute;
+			top: 113px;
+			left: 96px;
+			opacity: .9;
+		}
+		.sharpline3{
+			position: absolute;
+			top: 113px;
+			left: 155px;
+			opacity: .9;
+		}
+		.sharpline4{
+			position: absolute;
+			top: -13px;
+			left: 695px;
+			opacity: .9;
+		}
+		.sharpline5{
+			position: absolute;
+			top: -13px;
+			left: 755px;
+			opacity: .9;
+		}
+
+
+.sharpnote-2 {
+	width: 5.6%;
+	position: absolute;
+	top: 61px;
+	left: 90px;
+}
+.sharpnote-1 {
+	width: 5.6%;
+	position: absolute;
+	top: 52px;
+	left: 150px;
+}
+.sharpnote1 {
+	width: 5.6%;
+	position: absolute;
+	top: 32px;
+	left: 210px;
+}
+.sharpnote2 {
+	width: 5.6%;
+	position: absolute;
+	top: 22px;
+	left: 270px;
+}
+.sharpnote3 {
+	width: 5.6%;
+	position: absolute;
+	top: 11px;
+	left: 330px;
+}
+
+.sharpnote5 {
+	width: 5.6%;
+	position: absolute;
+	top: -10.5px;
+	left: 390px;
+}
+.sharpnote6 {
+	width: 5.6%;
+	position: absolute;
+	top: -22px;
+	left: 450px;
+}
+
+.sharpnote8 {
+	width: 5.6%;
+	position: absolute;
+	top: -43px;
+	left: 510px;
+}
+.sharpnote9 {
+	width: 5.6%;
+	position: absolute;
+	top: -53px;
+	left: 570px;
+}
+.sharpnote10 {
+	width: 5.6%;
+	position: absolute;
+	top: -63px;
+	left: 630px;
+}
+.sharpnote12 {
+	width: 5.6%;
+	position: absolute;
+	top: -84px;
+	left: 690px;
+}
+.sharpnote13 {
+	width: 5.6%;
+	position: absolute;
+	top: -95px;
+	left: 750px;
+}
