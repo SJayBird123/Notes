@@ -1,0 +1,100 @@
+		.sharpline1{
+			position: absolute;
+			top: 133px;
+			left: 96px;
+			opacity: .9;
+		}
+		.sharpline2{
+			position: absolute;
+			top: 113px;
+			left: 96px;
+			opacity: .9;
+		}
+		.sharpline3{
+			position: absolute;
+			top: 113px;
+			left: 155px;
+			opacity: .9;
+		}
+		.sharpline4{
+			position: absolute;
+			top: -13px;
+			left: 695px;
+			opacity: .9;
+		}
+		.sharpline5{
+			position: absolute;
+			top: -13px;
+			left: 755px;
+			opacity: .9;
+		}
+
+
+.treblesharpnote-2 {
+	width: 5.6%;
+	position: absolute;
+	top: 61px;
+	left: 90px;
+}
+.treblesharpnote0 {
+	width: 5.6%;
+	position: absolute;
+	top: 43px;
+	left: 150px;
+}
+.treblesharpnote1 {
+	width: 5.6%;
+	position: absolute;
+	top: 32px;
+	left: 210px;
+}
+.treblesharpnote3 {
+	width: 5.6%;
+	position: absolute;
+	top: 11px;
+	left: 270px;
+}
+.treblesharpnote4 {
+	width: 5.6%;
+	position: absolute;
+	top: 0px;
+	left: 330px;
+}
+
+.treblesharpnote5 {
+	width: 5.6%;
+	position: absolute;
+	top: -10.5px;
+	left: 390px;
+}
+.treblesharpnote7 {
+	width: 5.6%;
+	position: absolute;
+	top: -32px;
+	left: 450px;
+}
+
+.treblesharpnote8 {
+	width: 5.6%;
+	position: absolute;
+	top: -43px;
+	left: 510px;
+}
+.treblesharpnote10 {
+	width: 5.6%;
+	position: absolute;
+	top: -63px;
+	left: 570px;
+}
+.treblesharpnote11 {
+	width: 5.6%;
+	position: absolute;
+	top: -73px;
+	left: 630px;
+}
+.treblesharpnote12 {
+	width: 5.6%;
+	position: absolute;
+	top: -84px;
+	left: 690px;
+}
